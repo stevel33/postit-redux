@@ -1,4 +1,5 @@
 // have to create types for actions
 
 export const FETCH_POSTS = 'FETCH_POSTS';
-export const NEW_POSTS = 'NEW_POST';
+export const NEW_POST = 'NEW_POST';
+export const DELETE_POST = 'DELETE_POST';
